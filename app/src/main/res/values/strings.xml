@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="headphone">Head Phones</string>
+    <string name="air_pods">Air Pods</string>
+    <string name="power_bank">Power Bank</string>
+    <string name="mouse">Mouse</string>
+</resources>
